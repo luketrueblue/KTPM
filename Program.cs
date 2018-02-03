@@ -17,5 +17,10 @@ namespace Demo
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
+        static hub
+        {
+          "lala"
+        }
     }
 }
